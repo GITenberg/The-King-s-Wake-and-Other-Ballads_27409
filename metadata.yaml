@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31678
     wikipedia: http://www.encyclopedia.com/topic/Thomas_James_Wise.aspx
 description: The king's wake -- Swayne Felding -- Innocence defamed.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27409#The-King-s-Wake-and-Other-Ballads
 gutenberg_issued: '2008-12-04'
 gutenberg_type: Text
 identifiers:
